@@ -17,3 +17,27 @@ Here is my Data dictionary:
 Here is my Entity Relationship Diagram:
 
 ![](https://gyazo.com/6d11585373bece5d1ef3f1edbb543899.png)
+
+### User stories
+I needed to create 10 user stories for my Relational Database System and here they are:
+
+As a user I would like to see how much damage an enemy does
+
+As a user I would like to see how much health an enemy has
+
+As a user I would like to see how much damage a hero does
+
+As a user I would like to see how much health a hero has
+
+As a user I would like to be able to create and add new heroes using a form
+
+As a user I would like to be able to create and add new enemies using a form
+
+As a user I would like to see what a heores stats are
+
+As a user I would like to see what a heroes stats are
+
+As a user I would like to be able to view a heroes level
+
+As a user I would like to be able to view an enemies level
+
