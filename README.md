@@ -41,3 +41,12 @@ As a user I would like to be able to view a heroes level
 
 As a user I would like to be able to view an enemies level
 
+
+### Forms
+Here at two forms; one shows a form of an Enemy and the other shows a form of a Hero.
+
+![](https://gyazo.com/dd1b3dbbd3590b36668bb27037903e23.png)
+
+![](https://gyazo.com/475996880b81a422ea519eddbf2b5b4b.png)
+
+
