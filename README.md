@@ -62,6 +62,6 @@ This is also an error message that pops up, but this time it is because a user i
 These reports shows all of the data within a table in a easy to read manner. In this case the report is of the table Heroes, the data it shows is Species, Name, Level, ID and HP. The second report is off the Enemy table which shows data such as ID, Name, HP, Damage and Stats.
 
 
-![](https://gyazo.com/cd938653925bd62a80ce15f1e3ea3e83.png)
+![](https://gyazo.com/4aeefa745239953f6605f010122cb5eb.png)
 
 ![](https://gyazo.com/6882f39f50248c041f8a5da7c3468adf.png)
