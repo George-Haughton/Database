@@ -7,8 +7,6 @@ I used two main tools. The first one being Draw.io which I used to create my ERD
 
 Similarly to my tools I used two main techniques; the first being an Entity Relationship Diagram. Within my Entity Relationship Diagram I created 5 tables, which were called: Enemies, Heores, Enemy_skills, Hero_Skills and finally Skills. The other technique I used was a Data dictionary, which was a table within Microsoft Excel that showed the information that was going to be in each table.
 
-Screenshots of techniques:
-
 Here is my Data dictionary:
 
 ![](https://gyazo.com/805ba589dc7f2a0b6f02daa0deeaabba.png)
@@ -83,27 +81,27 @@ These are a few examples of the code i used when creating new tables.
 
 These are a few examples of code I used to insert different types of data into my tables:
 
-![]()
+![](https://gyazo.com/9f256e6fdc77c4917e0d1ac46b8b6412.png)
 
-![]()
+![](https://gyazo.com/eac60014082d73832157c6d3ed0fd80c.png)
 
-![]()
+![](https://gyazo.com/7c695b3320c12eb09364eaf27aebb769.png)
 
-![]()
+![](https://gyazo.com/4a764bafc5d80eaceb4de023c5cf8965.png)
 
-![]()
+![](https://gyazo.com/72ce94ce6085342ef5369512142eecd0.png)
 
 When it came to updating values and data within my tables this is the code I would use:
 
-![]()
+![](https://gyazo.com/20ab24c40d70cd2cc138fb57a20ce6e3.png)
 
-![]()
+![](https://gyazo.com/d42dbe0b6937b0f9662a0c0bd49489f3.png)
 
-![]()
+![](https://gyazo.com/440544d6095b878b979c6d190c53be35.png)
 
-![]()
+![](https://gyazo.com/14722ad06884abf25f6d9d24dbed6450.png)
 
-![]()
+![](https://gyazo.com/e0f39efe17596bac3fc4ecd828444c54.png)
 
 If I needed to delete mass amounts or even small amounts of data and values I would use this code:
 
