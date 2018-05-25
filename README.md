@@ -117,12 +117,12 @@ If I needed to delete mass amounts or even small amounts of data and values I wo
 
 When it came to selecting values and data I wanted to update or delete I would use this code to select a table or piece of data:
 
-![]()
+![](https://gyazo.com/bd6d331d5ebbeff7298e3cd5be72fcca.png)
 
-![]()
+![](https://gyazo.com/e8e9d10e41b1a7a442e8afe1077b66aa.png)
 
-![]()
+![](https://gyazo.com/5aa97b786c3eaa5822bbd3a30d7161cb.png)
 
-![]()
+![](https://gyazo.com/45727a9e7f986f62238cc717b64cb725.png)
 
-![]()
+![](https://gyazo.com/1e82301da2e4711b85d9767a153af5cd.png)
