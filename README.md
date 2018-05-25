@@ -11,7 +11,7 @@ Screenshots of techniques:
 
 Here is my Data dictionary:
 
-![](https://gyazo.com/1597a2d00e91baa606abdd22fc418c56.png)
+![](https://gyazo.com/805ba589dc7f2a0b6f02daa0deeaabba.png)
 
 
 Here is my Entity Relationship Diagram:
@@ -19,7 +19,7 @@ Here is my Entity Relationship Diagram:
 ![](https://gyazo.com/6d11585373bece5d1ef3f1edbb543899.png)
 
 ### User stories
-I needed to create 10 user stories for my Relational Database System and here they are:
+I needed to create 10 user stories and here they are:
 
 As a user I would like to see how much damage an enemy does
 
@@ -65,3 +65,66 @@ These reports shows all of the data within a table in a easy to read manner. In 
 ![](https://gyazo.com/4aeefa745239953f6605f010122cb5eb.png)
 
 ![](https://gyazo.com/6882f39f50248c041f8a5da7c3468adf.png)
+
+### SQL Code
+These sections of code are code I used to help my create my Database. While creating my Database I made code to create tables, insert, update, delete and select data.
+
+These are a few examples of the code i used when creating new tables.
+
+![](https://gyazo.com/1b7f4ec42584c55b6ee2975fca20848c.png)
+
+![](https://gyazo.com/5438ed0edb1cad57e87b979b94ddd446.png)
+
+![](https://gyazo.com/76f38c78107dc9df0d223f1a3471336a.png)
+
+![](https://gyazo.com/fe7384a90017553cc8e2268bdb0804bb.png)
+
+![](https://gyazo.com/19e2d500a6f2110540f25ecd4c735dea.png)
+
+These are a few examples of code I used to insert different types of data into my tables:
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+When it came to updating values and data within my tables this is the code I would use:
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+If I needed to delete mass amounts or even small amounts of data and values I would use this code:
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+When it came to selecting values and data I wanted to update or delete I would use this code to select a table or piece of data:
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
