@@ -126,3 +126,13 @@ When it came to selecting values and data I wanted to update or delete I would u
 ![](https://gyazo.com/45727a9e7f986f62238cc717b64cb725.png)
 
 ![](https://gyazo.com/1e82301da2e4711b85d9767a153af5cd.png)
+
+### Test plan
+Here is the test plan I made to test my Database
+
+![](https://gyazo.com/92044f48401dd3c59b7798b147eeab2a.png)
+
+					
+					
+					
+
