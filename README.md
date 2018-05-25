@@ -132,7 +132,20 @@ Here is the test plan I made to test my Database
 
 ![](https://gyazo.com/92044f48401dd3c59b7798b147eeab2a.png)
 
+Additionally here are some screenshots of my testing my database:
+
+![](https://gyazo.com/dd1b3dbbd3590b36668bb27037903e23.png)
+
+![](https://gyazo.com/475996880b81a422ea519eddbf2b5b4b.png)					
 					
-					
-					
+![](https://gyazo.com/0332d640292aae23cdcddcc42c6a866d.png)
+
+![](https://gyazo.com/db7472363652caeb49c116c0000ac626.png)
+
+### User and Technical documentation
+My data base is was developed and designed to hold different types of data, about characters that are in my game. The data base contains several tables called, Enemies, Heroes, Enemy_Skills, Skills and Hero_Skills. Each table contains different types of data and data values. These types and values are Health, ID, Name, Damage, Range, Hero_ID, Enemy_ID and Weapon; because these values are for a game these values will be updated and changed in real time.
+
+#### Role of a database system
+The need of a database system comes in many forms. Most databases are used to store information/data in a neat and easy to ready manner. Databases are especially good tools to use because of how easy it is to access or change data 
+
 
