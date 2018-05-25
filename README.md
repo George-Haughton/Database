@@ -105,15 +105,15 @@ When it came to updating values and data within my tables this is the code I wou
 
 If I needed to delete mass amounts or even small amounts of data and values I would use this code:
 
-![]()
+![](https://gyazo.com/7fc91f11031ba6c7744558bb59fc1e39.png)
 
-![]()
+![](https://gyazo.com/47658eafc58028acfdceb61b65f7e78d.png)
 
-![]()
+![](https://gyazo.com/7daff3bff328f933e27ce34420941bcf.png)
 
-![]()
+![](https://gyazo.com/7d09ff35f134535c6379d87a44a56758.png)
 
-![]()
+![](https://gyazo.com/a750705b55ca0664d966ef4b0710c79b.png)
 
 When it came to selecting values and data I wanted to update or delete I would use this code to select a table or piece of data:
 
