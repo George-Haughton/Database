@@ -191,6 +191,14 @@ Within my database I knew there were certain things I needed to add to cater to 
 #### Resultant data structures and data software objects
 Each form I created I made sure came with a set of buttons that would allow me to edit the data and values that is in each table instead of having to go back and edit each table which allowed me to change and update the forms with ease. Another button I made sure I implemented was a button to allow me to delete sections of the database all at once I felt were not needed. When designing and bulding my database my goal was to create one that was very easy to maintain, edit, change and add data to, with this being said within my database I made sure there was more than one place that data can be change and uploaded for example, it can be done within a table or within a form instead of just within a report. I did this because I felt it would make my database run smoother if my reports were a place that was more for showing off and displaying data instead of the place I go to delete, add, change or edit data.
 
+### Tools used
+There are four main tools I used to create my database:
+
+* Microsoft word -  I used Microsoft word for my documentation such as the User and Technical documentation.
+* Draw.io - I used Draw.io to make my ERD (Entity relationship diagram) that showed character relationships and their skills.
+* Microsoft access - I used Microsoft access to create the actual database in.
+* Microsoft excel - I used Microsoft excel to create my data dictionary which displayed characters skills. I also used Microsoft excel to create my test plan in which was how I went about testing my database.
+
 
 
 
